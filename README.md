@@ -4,8 +4,6 @@
 
 ## Introduction
 
-Oblivion of the Galaxy was made by [pr1koltv](https://www.twitch.tv/pr1koltv)
-
 In this Modpack, you can engage in technology, roam the deep forests and fight various monsters!
 Because there are such famous mods as Botania, Mekanism, Immersive Engineering and others.
 
