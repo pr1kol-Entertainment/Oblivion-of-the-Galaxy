@@ -20,7 +20,7 @@ NOTE: If you have other mods installed or you have changed versions; please reve
 
 
 ## Steps to Reproduce (for bugs)
-<!--📝 A video or a set of steps to reproduce-->
+<!--📝 A video, screenshots or a set of steps to reproduce-->
 <!--✏-->
 1.
 2.
