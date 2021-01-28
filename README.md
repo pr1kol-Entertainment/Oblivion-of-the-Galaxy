@@ -10,10 +10,6 @@ Because there are such famous mods as Botania, Mekanism, Immersive Engineering a
 To complete this modpack, you must complete the entire tab with the Oblivion of the Galaxy advancements.
 And I can say that it will take you a long time to do this, because there are a lot of achievements in this modpack and almost all craftes is complicated.
 
-## License
-
-You may view the license [here](./LICENSE).
-
 ## Downloads
 
 Released files:
