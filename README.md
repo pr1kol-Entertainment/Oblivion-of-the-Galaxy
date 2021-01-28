@@ -1,6 +1,6 @@
 # Oblivion of the Galaxy
 
-[![Twitch Status](https://img.shields.io/website?color=blueviolet&label=pr1koltv&style=plastic&up_message=Twitch&url=https%3A%2F%2Ftwitch.tv%2Fpr1koltv)](https://twitch.tv/pr1koltv)
+[![Twitch Status](https://img.shields.io/website?color=blueviolet&label=pr1kol&up_message=Twitch&url=https%3A%2F%2Ftwitch.tv%2Fpr1koltv)](https://twitch.tv/pr1koltv)
 
 ## Introduction
 
