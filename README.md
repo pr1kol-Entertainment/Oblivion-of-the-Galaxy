@@ -4,6 +4,8 @@
 
 ## Introduction
 
+This is a large-scale Modpack with many techniques and mods that are intertwined!
+
 In this Modpack, you can engage in technology, roam the deep forests and fight various monsters!
 Because there are such famous mods as Botania, Mekanism, Immersive Engineering and others.
 
