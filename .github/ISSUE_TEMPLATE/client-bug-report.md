@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Client Bug Report"
-about: ''
+about: "If you have a problem with the game"
 title: ''
 labels: ''
 assignees: ''
