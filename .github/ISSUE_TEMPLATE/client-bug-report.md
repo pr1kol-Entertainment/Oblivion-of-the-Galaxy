@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41B Client Bug Report"
+name: "⚙ Client Bug Report"
 about: "If you have a problem with the game"
 ---
 
