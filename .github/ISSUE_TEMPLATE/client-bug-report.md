@@ -1,6 +1,6 @@
 ---
 name: "⚙ Client Bug Report"
-about: "If you have a problem with the game"
+about: "If you're having a single player problem"
 ---
 
 <!--=
