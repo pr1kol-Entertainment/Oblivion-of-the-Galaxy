@@ -16,4 +16,4 @@ And I can say that it will take you a long time to do this, because there are a 
 
 Released files:
 
-- (https://img.shields.io/website?color=orange&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&up_message=CurseForge&url=https%3A%2F%2Fgithub.com%2Fpr1kol%2FOblivion-of-the-Galaxy%2Fissues)
+- https://img.shields.io/website?color=orange&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&up_message=CurseForge&url=https%3A%2F%2Fgithub.com%2Fpr1kol%2FOblivion-of-the-Galaxy%2Fissues
