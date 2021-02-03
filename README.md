@@ -18,4 +18,4 @@ Released files:
 
 - [CurseForge][curse_link]
 
-[curse_link]: https://www.curseforge.com/minecraft/modpacks/oblivion-of-the-galaxy
+[![curse_link](https://img.shields.io/website?color=orange&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&up_message=CurseForge&url=https%3A%2F%2Fgithub.com%2Fpr1kol%2FOblivion-of-the-Galaxy%2Fissues)] (https://curseforge.com/minecraft/modpacks/oblivion-of-the-galaxy)
