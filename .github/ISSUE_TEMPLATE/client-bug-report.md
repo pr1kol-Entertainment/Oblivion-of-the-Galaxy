@@ -9,18 +9,15 @@ NOTE: If you have other mods installed or you have changed versions; please reve
 =-->
 
 
-## Bug Description **
-<!--📝 A clear and concise description of the problem-->
+## Bug Description <!--A clear and concise description of the problem-->
 ✏:
 
 
-### Did this behavior use to work in the previous version?
-<!--📝 Yes, the previous version in which this bug was not present was:-->
+### Did this behavior use to work in the previous version? <!--Yes, the previous version in which this bug was not present was:-->
 ✏:
 
 
-## Steps to Reproduce (for bugs)
-<!--📝 A video, screenshots or a set of steps to reproduce-->
+## Steps to Reproduce (for bugs) <!--A video, screenshots or a set of steps to reproduce-->
 ✏:
 1.
 2.
