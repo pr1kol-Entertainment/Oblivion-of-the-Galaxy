@@ -14,4 +14,4 @@ And I can say that it will take you a long time to do this, because there are a 
 
 ## Downloads
 
-[![Curse](https://img.shields.io/website?color=orange&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&up_message=CurseForge&url=https%3A%2F%2Fgithub.com%2Fpr1kol%2FOblivion-of-the-Galaxy%2Fissues)](https://curseforge.com/minecraft/modpacks/oblivion-of-the-galaxy)
+[![Curse](https://img.shields.io/website?down_message=CurseForge&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&url=https%3A%2F%2Fcurseforge.com%2Fminecraft%2Fmodpacks%2Foblivion-of-the-galaxy)](https://curseforge.com/minecraft/modpacks/oblivion-of-the-galaxy)
